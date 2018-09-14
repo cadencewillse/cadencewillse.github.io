@@ -16,9 +16,9 @@ I received my B.A. in History and Political Science from St. Mary's College of M
 
 Willse, Cadence,  *Battling Budget Cuts: Interest Group Mobilization in Public Service Provision*  Under Review. 
 
-Moffitt, Susan, Kelly B. Smith, **Cadence Willse**, David Cohen, *Linked Fates? National Policy Volatility and Subnational Governing Capacity* Prepared for presentation at APSA 2018.
+Moffitt, Susan, Kelly B. Smith, **Cadence Willse**, David Cohen, *Linked Fates? National Policy Volatility and Subnational Governing Capacity*. Prepared for presentation at APSA 2018.
 
-Moffitt, Susan, Kelly B. Smith, **Cadence Willse**, David Cohen, *The Role of State Capacity in Reform Durability and Retrenchment* Prepared for presentation at MPSA 2018.
+Moffitt, Susan, Kelly B. Smith, **Cadence Willse**, David Cohen, *The Role of State Capacity in Reform Durability and Retrenchment*. Prepared for presentation at MPSA 2018.
 
 ## Policy Publications
  
