@@ -15,7 +15,7 @@ Moffitt, Susan, Kelly B. Smith, **Cadence Willse**, David Cohen, *The Role of St
 
 ## Policy Publications
  
-Moffitt, Susan L., Matthew J. Lyddon, Domingo Morel, Michaela Krug O’Neill, Kelly B. Smith, **Cadence Willse**, and David K. Cohen. September, 2018. [State Structures for Instructional Support in California}(http://www.gettingdowntofacts.com/publications/state-structures-instructional-support-california) Getting Down to Facts 2: Stanford, CA. 
+Moffitt, Susan L., Matthew J. Lyddon, Domingo Morel, Michaela Krug O’Neill, Kelly B. Smith, **Cadence Willse**, and David K. Cohen. September, 2018. [State Structures for Instructional Support in California](http://www.gettingdowntofacts.com/publications/state-structures-instructional-support-california) Getting Down to Facts 2: Stanford, CA. 
 
 Moffitt, Susan, Matthew J. Lyddon, Michaela Krug O’Neill, Kelly B. Smith, **Cadence Willse**, and David K. Cohen., September, 2018. [Frontlines Perspectives on Instructional Support in the Common Core Era.](http://www.gettingdowntofacts.com/publications/frontlines-perspectives-instructional-support-common-core-era) Getting Down to Facts 2: Stanford, CA. 
 
