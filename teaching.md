@@ -1,5 +1,5 @@
 
-My academic training and professional experience allows me to teach exciting introductory and advanced courses in American politics and public policy. I am passionate about student engagement with the community and improving diversity and inclusion in higher education, and have published on the topic. In addition, prior to graduate school I worked for a non-profit organization that prepared first-generation students for success in college. As an instructor, I continue to work with students to ensure they have the tools they need to be successful in college and in the workplace. 
+My academic training and professional experience allows me to teach exciting introductory and advanced courses in American politics and public policy. I am passionate about student engagement with the community and improving diversity and inclusion in higher education. In addition, prior to graduate school I worked for a non-profit organization that prepared first-generation students for success in college. As an instructor, I continue to work with students to ensure they have the tools they need to be successful in college and in the workplace. 
 
 Teaching Experience
 
