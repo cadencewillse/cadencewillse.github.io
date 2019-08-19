@@ -4,15 +4,15 @@ My academic training and professional experience allows me to teach exciting int
 Teaching Experience
 
 Instructor, *Stanford University*
- Digital Civil Society, Fall 2019
+- Digital Civil Society, Fall 2019
 
 Teaching Assistant, *Brown University*
- The American Presidency, Spring 2016
- Campaigns and Elections, Fall 2015
- Gender Politics, Spring 2015
- Introduction to the American Political Process, Fall 2014
- Politics and Public Education, Spring 2013
- Public Budgeting and Management, Fall 2014, 2015, 2016
+- The American Presidency, Spring 2016
+- Campaigns and Elections, Fall 2015
+- Gender Politics, Spring 2015
+- Introduction to the American Political Process, Fall 2014
+- Politics and Public Education, Spring 2013
+- Public Budgeting and Management, Fall 2014, 2015, 2016
 
 Select Student Comments  
 
