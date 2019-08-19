@@ -1,7 +1,7 @@
 
 My academic training and professional experience allows me to teach exciting introductory and advanced courses in American politics and public policy. I am passionate about student engagement with the community and improving diversity and inclusion in higher education. In addition, prior to graduate school I worked for a non-profit organization that prepared first-generation students for success in college. As an instructor, I continue to work with students to ensure they have the tools they need to be successful in college and in the workplace. 
 
-Teaching Experience
+## Teaching Experience
 
 Instructor, *Stanford University*
 - Digital Civil Society, Fall 2019
@@ -14,11 +14,11 @@ Teaching Assistant, *Brown University*
 - Politics and Public Education, Spring 2013
 - Public Budgeting and Management, Fall 2014, 2015, 2016
 
-Certificates
+## Certificates
 - Sheridan Teaching Seminar Certificate in Reflective Teaching,  *Brown University* 2014 - 2015
 
 
-Select Student Comments  
+## Select Student Comments  
 - “Cadence was always very personable which was helpful when I needed help. But also the feedback on papers was extremely helpful not only for the class but to improve my writing in general.”
 - “Cadence was amazing I went to her office hours three times throughout the semester. She was extremely helpful with my paper and always accessible if I had any questions. I emailed her numerous times and she always responded immediately with helpful information.”
 - "Cadence was very responsive to and open to questions. She was extremely welcoming and I was never intimidated or hesitated to ask her questions about course material or anything related to the course. She managed the limited time we had in section very well and prompted student participation.”
