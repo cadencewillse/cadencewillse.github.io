@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am a political scientist studying interest groups, philanthropy and policy. This fall, I join the Center for Philanthropy and Civil Society at Stanford University as a [Postdoctoral Fellow] (https://pacscenter.stanford.edu/person/cadence-willse/).
+Hello! I am a political scientist studying interest groups, philanthropy and policy. I am a [Postdoctoral Fellow](https://pacscenter.stanford.edu/person/cadence-willse/) at the Center on Philanthropy and Civil Society at Stanford University.
 
 My research focuses on issues of equity, access, and representation in interest groups politics.  My current book project explores the changing role of civic advocacy in American politics, focusing on the rapid increase in philanthropy in public schools. In addition, I am working on two coauthored papers: one focuses on policy engagement on social media, and the other focuses on the implications of national policy expansion and economic volatility for subnational and nongovernmental capacity. I am passionate about community-engaged scholarship, teaching and student development, and I have coauthored a forthcoming article and book chapter on the topic.
 
