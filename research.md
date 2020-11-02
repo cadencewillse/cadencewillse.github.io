@@ -7,7 +7,7 @@ permalink: /research/
 
 ## Working Papers
 
-“Private Money, Public Schools: Interest Group Mobilization and the Changing Advocacy Agenda in Education” Job Market Paper.
+“Logged on: Technology, Privacy and Public Schools during the COVID-19 Pandemic”, In Progress.
 
 “Central State Expansion and Subnational Capacity: The Struggle to Make Federalism Work” Under Review, (with Susan L. Moffitt, Kelly Smith, and David Cohen).
 
