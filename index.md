@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am a political scientist studying interest groups, philanthropy and policy. I am an [Assistant Professor](https://polisci.tcnj.edu/faculty_staff/cadence-willse/) of Political Science at The College of New Jersey. Prior to joining the faculty at TCNJ, I was a [Postdoctoral Fellow](https://pacscenter.stanford.edu/person/cadence-willse/) at the Center on Philanthropy and Civil Society at Stanford University.
+Hello! I am a political scientist studying education, philanthropy and policy. I am an [Assistant Professor](https://polisci.tcnj.edu/faculty_staff/cadence-willse/) of Political Science at The College of New Jersey. Prior to joining the faculty at TCNJ, I was a [Postdoctoral Fellow](https://pacscenter.stanford.edu/person/cadence-willse/) at the Center on Philanthropy and Civil Society at Stanford University.
 
 My research focuses on issues of equity and access in education policy.  At present, I am exploring the rapid shift to online learning during the Covid19 pandemic. For students and teachers who “logged on”, what guidance did states offer school district leadership, teachers, and parents in order to protect student privacy? In addition, I have two coauthored papers in progress: one focuses on policy engagement on social media, and the other focuses on the implications of national policy expansion and economic volatility for subnational and nongovernmental capacity. I am passionate about community-engaged scholarship, teaching and student development, and I have coauthored an article and book chapter on the topic.
 
