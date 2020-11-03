@@ -2,6 +2,9 @@
 My academic training and professional experience allows me to teach introductory and advanced courses in American politics and public policy. In addition to my experience as a teaching assistant and course instructor, I worked for a non-profit organization that prepared first-generation students for success in college before graduate school. I am passionate about student engagement with the community and improving diversity and inclusion in higher education. 
 
 ## Teaching Experience
+Instructor, *The College of New Jersey*
+- Introduction to American Government, Fall 2020
+- American Public Policy, Fall 2020
 
 Instructor, *Stanford University*
 - Digital Civil Society, Fall 2019
