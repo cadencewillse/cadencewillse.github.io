@@ -4,15 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+## Political Science Publications
 
-## Working Papers
-
-“Logged on: Technology, Privacy and Public Schools during the COVID-19 Pandemic”, In Progress.
-
-“Central State Expansion and Subnational Capacity: The Struggle to Make Federalism Work” Under Review, (with Susan L. Moffitt, Kelly Smith, and David Cohen).
-
-“The Transformation of Policy Ideas to Avoid Populist Backlash” Prepared for presentation at APSA 2019, (with Susan L. Moffitt and Marie Schenck).
-
+Moffitt, S., Willse, C., Smith, K., & Cohen, D. (2021). Centralization and Subnational Capacity: The Struggle to Make Federalism Work Equitably in Public Education. Perspectives on Politics, 1-21. doi:10.1017/S1537592721002012
 
 ## Policy Publications
  
@@ -20,9 +14,17 @@ permalink: /research/
 
 [Frontlines Perspectives on Instructional Support in the Common Core Era.](http://www.gettingdowntofacts.com/publications/frontlines-perspectives-instructional-support-common-core-era) Getting Down to Facts 2: Stanford, CA. September, 2018. (with Susan L Moffitt, Matthew J. Lyddon, Michaela Krug O’Neill, Kelly B. Smith, and David K. Cohen). 
 
-
 ## Publications on Teaching and Student Development 
 
-*Social Innovation and Civic Engagement: A Critical Praxis for Engagement in Higher Education* in E. Mlyn, and A. M. McBride (Eds.), "The Civic Mission of Higher Education: Connecting Social Innovation and Civic Engagement." Sterling, VA: Stylus Publishing. Under Contract. (with Prabhdeep Singh Kehal and Mathew Johnson).
+Willse, C, kehal, p.s. & Johnson, M. *Social Innovation and Civic Engagement: A Critical Praxis for Engagement in Higher Education* in McBride, A. M., & Mlyn, E. (Eds.). (2020). Connecting Civic Engagement and Social Innovation: Toward Higher Education's Democratic Promise. Stylus Publishing, LLC.
 
-"Creating a Conducive Context for Deepening Student Engagement” Revise and Resubmit. *Journal of Community Engagement in Higher Education.* (with Prabhdeep Singh Kehal).
+kehal, p. s., & Willse, C. (2020). Institutional Type, Organizational Pathways, and Student Engagement: Deepening Student Engagement and the Benefit Use Paradox in Formal Engagement Spaces. *Journal of Community Engagement and Higher Education,* 12(1), 50-65.
+
+## In Progress
+
+Willse. “Parent Teacher Organization’s Mobilization and Fundraising in K-12 Education”, in Drezner, N (Eds) Philanthropy and Education, Palgrave Macmillan. - Under Review.
+
+Willse, C. "Virtual Learning and Student Privacy – Lessons from the COVID-19 Pandemic" - Under Review.
+
+Willse, C. "Battling Budget Cuts: Public Service Provision Through Nonprofit Mobilization" - In Preparation.
+
