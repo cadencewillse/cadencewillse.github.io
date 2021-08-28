@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Political Science Publications
+## ARTICLES
 
 Moffitt, S., Willse, C., Smith, K., & Cohen, D. (2021). Centralization and Subnational Capacity: The Struggle to Make Federalism Work Equitably in Public Education. Perspectives on Politics, 1-21. doi:10.1017/S1537592721002012
 
