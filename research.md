@@ -3,10 +3,23 @@ layout: default
 title: Research
 permalink: /research/
 ---
+## Peer-Reviewed Articles and Work in Progress
 
-## ARTICLES
+Willse, C. "State Education Agency Governance, Virtual Learning and Student Privacy – Lessons 	from the COVID-19 Pandemic'' Revise and Resubmit at Educational Policy.
 
-Moffitt, S., Willse, C., Smith, K., & Cohen, D. (2021). Centralization and Subnational Capacity: The Struggle to Make Federalism Work Equitably in Public Education. Perspectives on Politics, 1-21. doi:10.1017/S1537592721002012
+Willse, C. "The Geography of Giving: Nonprofit Philanthropy, Public Parks and Land Conservation in the United States'' Revise and Resubmit at Conservation Science and Practice. 
+
+Moffitt, S., Willse, C., Smith, K., & Cohen, D. (2021). Centralization and Subnational Capacity: The Struggle to Make Federalism Work Equitably in Public Education. Perspectives on Politics, 1-21. doi:10.1017/S1537592721002012 
+
+ 
+## Book Chapters
+  
+Willse, C. (Submitted.) "Parent Teacher Organization’s Mobilization and Fundraising in K-12 Education" in Drezner, N (Eds) Philanthropy and Education, Palgrave Macmillan. 
+  
+Moffitt, S.L.,  O'Neill, M.K., Cohen, D.K. and Willse, C., (Under Contract). "Problems of Overload: Layers and Lacunae" In  Reforming the Reform: Igniting Problems of Policymaking in the Pursuit of School Improvement. University of Chicago Press.
+
+Moffitt, S.L.,  O'Neill, M.K., Cohen, D.K. and Willse, C., (Under Contract). "Problems of Isolation: Pockets of Policymaking" In  Reforming the Reform: Igniting Problems of Policymaking in the Pursuit of School Improvement. University of Chicago Press.
+
 
 ## Policy Publications
  
@@ -20,11 +33,5 @@ Willse, C, kehal, p.s. & Johnson, M. *Social Innovation and Civic Engagement: A 
 
 kehal, p. s., & Willse, C. (2020). Institutional Type, Organizational Pathways, and Student Engagement: Deepening Student Engagement and the Benefit Use Paradox in Formal Engagement Spaces. *Journal of Community Engagement and Higher Education,* 12(1), 50-65.
 
-## In Progress
 
-Willse. “Parent Teacher Organization’s Mobilization and Fundraising in K-12 Education”, in Drezner, N (Eds) Philanthropy and Education, Palgrave Macmillan. - Under Review.
-
-Willse, C. "Virtual Learning and Student Privacy – Lessons from the COVID-19 Pandemic" - Under Review.
-
-Willse, C. "Battling Budget Cuts: Public Service Provision Through Nonprofit Mobilization" - In Preparation.
 
