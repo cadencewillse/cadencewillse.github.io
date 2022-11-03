@@ -7,8 +7,13 @@ Instructor, *The College of New Jersey*
 - American Public Policy, Fall 2020, Fall 2022
 - Quantitative Research Methods, Fall 2021 - Spring 2022
 
-- Student Instructor Evaluations, 2021-2022: 4.78/5
-- Student Course Evaluations, 2021-2022: 4.63/5 
+Student Instructor Evaluations, 2021-2022
+- 4.78/5 Fall - Research Methods and Intro to American Gov,
+- 4.84/5 Spring - Research Methods
+
+Student Course Evaluations, 2021-2022:
+- 4.63/5 Fall - Research Methods and Intro to American Gov,
+- 4.73/5 Spring - Research Methods
 
 Instructor, *Stanford University*
 - Digital Civil Society, Fall 2019
