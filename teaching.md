@@ -3,21 +3,24 @@ My academic training and professional experience allows me to teach introductory
 
 ## Teaching Experience
 Instructor, *The College of New Jersey*
+
+Undergraduate
 - Introduction to American Government, Fall 2020 - Fall 2022
 - American Public Policy, Fall 2020, Fall 2022
-- Quantitative Research Methods, Fall 2021 - Spring 2022
+- Quantitative Research Methods, Fall 2021 - Spring 2023
 
-Student Instructor Evaluations, 2021-2022
-- 4.78/5 Fall - Research Methods and Intro to American Gov,
-- 4.84/5 Spring - Research Methods
+Graduate (Master's in Public Policy):
+- Public Policy in Theory and Practice, Spring 2023
+- Education Policy, Fall 2023
 
-Student Course Evaluations, 2021-2022:
-- 4.63/5 Fall - Research Methods and Intro to American Gov,
-- 4.73/5 Spring - Research Methods
+Student Instructor Evaluations, 2022 - 2023
+- 4.90/5 Fall - Public Policy 
+- 4.70/5 Fall - Introduction to American Government (2 sections)
+- 4.93/5 Spring - Research Methods  
+- 4.56/5 Spring - Public Policy in Theory and Practice 
 
 Instructor, *Stanford University*
 - Digital Civil Society, Fall 2019
-
 
 
 ## Certificates
