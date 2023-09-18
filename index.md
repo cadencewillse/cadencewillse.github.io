@@ -1,5 +1,17 @@
 ---
 layout: default
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2Q6R90KKGE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2Q6R90KKGE');
+</script>
+
 ---
 
 Hello! I am an [Assistant Professor](https://polisci.tcnj.edu/faculty_staff/cadence-willse/) of Political Science at The College of New Jersey, and my research focuses on U.S. public policy. 
